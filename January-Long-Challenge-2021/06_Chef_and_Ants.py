@@ -1,4 +1,4 @@
-## 30/100 Partical Solution
+## 30/100 Partial Solution
 
 t = int(input())
 
